@@ -73,8 +73,7 @@ Every time code is pushed to the repository, the project is automatically built 
 ---
 
 ## 🎥 Video Demo
-[Paste YouTube link here]
-
+https://youtube.com/shorts/74G5zewBmPE?feature=share 
 ---
 
 ## 🛠️ How to Run the App
