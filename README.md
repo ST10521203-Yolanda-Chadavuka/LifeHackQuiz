@@ -59,7 +59,8 @@ Every time code is pushed to the repository, the project is automatically built 
 
 
 ### 📊 Result Screen
-(Add image here)
+<img width="1080" height="2128" alt="Screenshot_20260423_113519_LifeHackApp3" src="https://github.com/user-attachments/assets/8fdb34e7-2adb-4109-b0cf-4e28361c2c52" />
+
 
 ### 📖 Review Screen
 (Add image here)
