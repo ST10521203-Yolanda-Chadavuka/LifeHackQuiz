@@ -55,7 +55,8 @@ Every time code is pushed to the repository, the project is automatically built 
 
 
 ### ❓ Quiz Screen
-(Add image here)
+<img width="317" height="520" alt="Activity quiz" src="https://github.com/user-attachments/assets/0ecb238d-b725-4dd4-b8e9-cbd99eef7f9e" />
+
 
 ### 📊 Result Screen
 (Add image here)
