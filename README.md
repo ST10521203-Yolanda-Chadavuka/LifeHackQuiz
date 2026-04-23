@@ -70,6 +70,21 @@ Every time code is pushed to the repository, the project is automatically built 
 <img width="1918" height="956" alt="Github life hack quiz" src="https://github.com/user-attachments/assets/dc2ab78e-9196-4344-90e8-db709a1cbd54" />
 <img width="1918" height="1137" alt="Github life hack quiz android studio push 2" src="https://github.com/user-attachments/assets/cd0a3e06-13a2-4d1c-9b79-81900a194522" />
 
+## Referencing 
+Clideo ( Online video editor. Available at: https://clideo.com/video-editor (Accessed: 22 April 2026).
+GitHub  Home. Available at: https://github.com/ (Accessed: 23 April 2026).
+GitHub  GitHub Actions documentation. Available at: https://docs.github.com/en/actions (Accessed: 23 April 2026).
+Google Developers  Android Studio. Available at: https://developer.android.com/studio (Accessed: 16 April 2026).
+Google Developers  Android Basics in Compose: Your first Android app. Available at: https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1 (Accessed: 14 April 2026).
+The Independent Institute of Education (2026) IMAD5112: Introduction to Mobile Application Development module manual 2026. Available at: [IMAD5112MM.docx].
+JetBrains Kotlin Multiplatform: Get started. Available at: https://kotlinlang.org/docs/multiplatform/get-started.html (Accessed: 19 April 2026).
+Kotlin Foundation (2026) Kotlin documentation. Available at: https://kotlinlang.org/docs/home.html (Accessed: 18 April 2026).
+OnlineConverter.com (2026) Online converter: File and unit conversion tools (free). Available at: https://www.onlineconverter.com/ (Accessed: 23 April 2026).
+OpenAI (2025) ChatGPT: prompt for README layout. Available at: https://chat.openai.com/ (Accessed: 21 April 2026).
+W3Schools (2026) Kotlin tutorial. Available at: https://www.w3schools.com/KOTLIN/index.php (Accessed: 23 April 2026).
+
+
+
 
 ---
 
