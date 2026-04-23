@@ -51,7 +51,8 @@ Every time code is pushed to the repository, the project is automatically built 
 ## 📸 Screenshots
 
 ### 🏠 Start Screen
-(Add image here)
+<img width="317" height="516" alt="Start screen" src="https://github.com/user-attachments/assets/657fab1d-82c8-478e-8da6-56b51cee737f" />
+
 
 ### ❓ Quiz Screen
 (Add image here)
