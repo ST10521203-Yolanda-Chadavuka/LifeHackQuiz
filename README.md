@@ -69,6 +69,10 @@ Every time code is pushed to the repository, the project is automatically built 
 ### More screenshots
 <img width="1918" height="956" alt="Github life hack quiz" src="https://github.com/user-attachments/assets/dc2ab78e-9196-4344-90e8-db709a1cbd54" />
 <img width="1918" height="1137" alt="Github life hack quiz android studio push 2" src="https://github.com/user-attachments/assets/cd0a3e06-13a2-4d1c-9b79-81900a194522" />
+<img width="1918" height="1137" alt="git pull screenshot" src="https://github.com/user-attachments/assets/7b7951f4-b79b-4c33-b6e6-2e90c8dcc04e" />
+<img width="1913" height="1027" alt="Life haack quiz screenshot" src="https://github.com/user-attachments/assets/555e9ea2-f3ce-4720-8847-0dc40f6340e8" />
+
+
 
 ## Referencing 
 Clideo ( Online video editor. Available at: https://clideo.com/video-editor (Accessed: 22 April 2026).
