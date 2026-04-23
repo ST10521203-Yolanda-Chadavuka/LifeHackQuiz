@@ -65,6 +65,7 @@ Every time code is pushed to the repository, the project is automatically built 
 ### 📖 Review Screen
 <img width="1080" height="2128" alt="Screenshot_20260423_113525_LifeHackApp3" src="https://github.com/user-attachments/assets/02a25532-6d78-4df2-87d1-2fe1cc295e67" />
 
+
 ### More screenshots
 <img width="1918" height="956" alt="Github life hack quiz" src="https://github.com/user-attachments/assets/dc2ab78e-9196-4344-90e8-db709a1cbd54" />
 <img width="1918" height="1137" alt="Github life hack quiz android studio push 2" src="https://github.com/user-attachments/assets/cd0a3e06-13a2-4d1c-9b79-81900a194522" />
